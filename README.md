@@ -14,7 +14,7 @@ The project uses the dataset `employee_performance.csv` and applies:
 
 ---
 
-## 🛠Tech Stack
+## Tech Stack
 - Python 3
 - Jupyter Notebook
 - Pandas
