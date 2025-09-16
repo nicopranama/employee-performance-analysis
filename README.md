@@ -25,9 +25,9 @@ The project uses the dataset `employee_performance.csv` and applies:
 
 ## Repository Structure
 .
-├── Big_Data_Session_2.ipynb # Main notebook with analysis
-├── employee_performance.csv # Dataset (not included if confidential)
-└── README.md # Project documentation
+- **Employee_Performance_Analysis.ipynb** → Main notebook with analysis  
+- **employee_performance.csv** → Dataset  
+- **README.md** → Project documentation 
 
 
 ---
